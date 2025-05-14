@@ -64,3 +64,6 @@ project/
 ## 📄 License
 
 MIT License.
+
+![image](https://github.com/user-attachments/assets/d096f474-ef59-4dcf-9bac-4d5e0f881780)
+![image](https://github.com/user-attachments/assets/ad57d312-d5f2-4d51-9a59-7437ed01f58c)

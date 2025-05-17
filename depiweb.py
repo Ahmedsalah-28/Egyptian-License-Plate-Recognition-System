@@ -24,7 +24,7 @@ def map_to_arabic(numbers, letters):
         'noon': 'ن', 'haah': 'ه', 'waw': 'و', 'yaa': 'ي',
         '7aa': 'ح'
     }
-    arabic_numbers = [number_map.get(num, num) for num in numbers]
+    arabic_numbers = [number_map.get(num, num) for num in reversed(numbers)]
     arabic_letters = [letter_map.get(letter, letter) for letter in reversed(letters)]
     return ' '.join(arabic_letters + arabic_numbers)
 

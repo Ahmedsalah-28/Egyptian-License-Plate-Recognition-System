@@ -65,5 +65,29 @@ project/
 
 MIT License.
 
+## 🧪 Try It Out
+
+You can test the license plate recognition system directly through the app:
+
+1. **Upload an Image**
+   - Use the sidebar or main interface to upload a clear photo of an Egyptian vehicle license plate.
+   - Supported formats: `.jpg`, `.png`, `.jpeg`.
+
+2. **Use Camera (Optional)**
+   - If your device has a webcam, click the **"Use Camera"** button to capture a live image.
+   - Allow camera permissions when prompted by your browser.
+
+3. **Process the Image**
+   - After uploading or capturing the image, click the **"Detect and Recognize"** button.
+   - The app will:
+     - Detect the license plate in the image
+     - Run OCR to extract Arabic letters and digits
+     - Display the recognized license plate
+     - Show the corresponding governorate (if available)
+
+4. **Download Result**
+   - Click the download button to save the image with annotations locally.
+   
+
 ![image](https://github.com/user-attachments/assets/d096f474-ef59-4dcf-9bac-4d5e0f881780)
-![image](https://github.com/user-attachments/assets/ad57d312-d5f2-4d51-9a59-7437ed01f58c)
+![image](https://github.com/user-attachments/assets/a94404a4-976f-4dea-9003-3edacc8826d6)
